@@ -1,0 +1,37 @@
+.body-wrapper {
+  height: 100vh;
+  width: 100vw;
+}
+h1 {
+  font-family: Prata;
+}
+h2 {
+  font-family: Prata;
+}
+h3 {
+  font-family: Prata;
+  color: white;
+  text-align: center;
+}
+
+span {
+  font-family: Prata; 
+
+}
+#otpr{
+  width: 100%;
+}
+#sli{
+  color: white;
+}
+#cont {
+  align-items: center;
+  justify-content: center;
+}
+textarea{
+  resize: none;
+}
+/* Нельзя менять размер большого текстового поля
+textarea{
+  resize: none;
+}

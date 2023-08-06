@@ -1,0 +1,83 @@
+div.slider {
+  width: 800px;
+  height: 800px;
+}
+h1 {
+  font-family: Denistina;
+}
+h5 {
+  font-family: Prata;
+  text-align: center;
+}
+p {
+  font-family: Prata;
+}
+h4 {
+  font-family: Denistina;
+}
+h2 {
+  font-family: Denistina;
+}
+#card1 {
+  width: 400px;
+  height: 300px;
+}
+#card2 {
+  width: 400px;
+  height: 300px;
+}
+#card3 {
+  width: 400px;
+  height: 300px;
+}
+.container {
+  align-items: center;
+  justify-content: center;
+}
+#card_text_1 {
+  text-align: center;
+}
+#card_text_2 {
+  text-align: center;
+}
+#card_text_3 {
+  text-align: center;
+}
+#btn1 {
+  width: 287px;
+}
+#btn2 {
+  width: 287px;
+}
+#btn3 {
+  width: 287px;
+}
+.card-img-top {
+  border-radius: 5px;
+}
+.card-headr {
+  font-family: Denistina;
+  font-size: 20pt;
+}
+a {
+  font-family: Prata;
+}
+/* 
+.nav__container {
+  border-bottom: 7px #212529 solid;
+}
+*/
+#Nazv {
+  font-family: Prata;
+}
+#zag {
+  font-family: Prata;
+}
+#dropdownMenuButton2 {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+#poroda {
+  font-family: Prata;
+}
